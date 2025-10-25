@@ -1,0 +1,102 @@
+# SwiftLint Configuration for PoemMedia
+# This file should be placed at the root of your project
+
+# Rules to enable
+opt_in_rules:
+  - array_init
+  - attributes
+  - closure_end_indentation
+  - closure_spacing
+  - collection_alignment
+  - contains_over_first_not_nil
+  - empty_count
+  - empty_string
+  - extension_access_modifier
+  - fallthrough
+  - fatal_error_message
+  - file_header
+  - first_where
+  - force_unwrapping
+  - implicitly_unwrapped_optional
+  - joined_default_parameter
+  - literal_expression_end_indentation
+  - multiline_arguments
+  - multiline_function_chains
+  - multiline_parameters
+  - operator_usage_whitespace
+  - overridden_super_call
+  - pattern_matching_keywords
+  - prefer_self_type_over_type_of_self
+  - redundant_nil_coalescing
+  - single_test_class
+  - sorted_first_last
+  - switch_case_alignment
+  - toggle_bool
+  - trailing_closure
+  - unneeded_parentheses_in_closure_argument
+  - vertical_parameter_alignment_on_call
+  - yoda_condition
+
+# Rules to disable
+disabled_rules:
+  - todo
+  - function_body_length
+  - type_body_length
+  - file_length
+  - large_tuple
+
+# Configure specific rules
+line_length:
+  warning: 120
+  error: 150
+  ignores_urls: true
+  ignores_function_declarations: true
+  ignores_comments: true
+
+type_name:
+  min_length: 3
+  max_length:
+    warning: 40
+    error: 50
+
+identifier_name:
+  min_length: 3
+  max_length:
+    warning: 40
+    error: 50
+  excluded:
+    - id
+    - URL
+    - app
+    - ui
+    - os
+
+function_parameter_count:
+  warning: 6
+  error: 8
+
+cyclomatic_complexity:
+  warning: 10
+  error: 15
+
+# Paths to include/exclude
+included:
+  - Sources
+  - ios
+  - shared
+
+excluded:
+  - Carthage
+  - Pods
+  - .build
+  - DerivedData
+  - .swiftpm
+  - Package.swift
+
+# Custom rules
+custom_rules:
+  no_print:
+    name: "No Print Statements"
+    regex: "print\\("
+    message: "Use proper logging instead of print statements"
+    severity: warning

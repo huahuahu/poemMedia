@@ -1,0 +1,94 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:poemMedia}/scripts",
+            "name": "Debug lint (scripts)",
+            "program": "${workspaceFolder:poemMedia}/scripts/.build/debug/lint",
+            "preLaunchTask": "swift: Build Debug lint (scripts)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:poemMedia}/scripts",
+            "name": "Release lint (scripts)",
+            "program": "${workspaceFolder:poemMedia}/scripts/.build/release/lint",
+            "preLaunchTask": "swift: Build Release lint (scripts)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:poemMedia}/scripts",
+            "name": "Debug build (scripts)",
+            "program": "${workspaceFolder:poemMedia}/scripts/.build/debug/build",
+            "preLaunchTask": "swift: Build Debug build (scripts)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:poemMedia}/scripts",
+            "name": "Release build (scripts)",
+            "program": "${workspaceFolder:poemMedia}/scripts/.build/release/build",
+            "preLaunchTask": "swift: Build Release build (scripts)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:poemMedia}/scripts",
+            "name": "Debug PoemMediaTools (scripts)",
+            "program": "${workspaceFolder:poemMedia}/scripts/.build/debug/PoemMediaTools",
+            "preLaunchTask": "swift: Build Debug PoemMediaTools (scripts)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:poemMedia}/scripts",
+            "name": "Release PoemMediaTools (scripts)",
+            "program": "${workspaceFolder:poemMedia}/scripts/.build/release/PoemMediaTools",
+            "preLaunchTask": "swift: Build Release PoemMediaTools (scripts)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:poemMedia}/scripts",
+            "name": "Debug Tools (scripts)",
+            "program": "${workspaceFolder:poemMedia}/scripts/.build/debug/Tools",
+            "preLaunchTask": "swift: Build Debug Tools (scripts)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:poemMedia}/scripts",
+            "name": "Release Tools (scripts)",
+            "program": "${workspaceFolder:poemMedia}/scripts/.build/release/Tools",
+            "preLaunchTask": "swift: Build Release Tools (scripts)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:poemMedia}/scripts",
+            "name": "Debug tools (scripts)",
+            "program": "${workspaceFolder:poemMedia}/scripts/.build/debug/tools",
+            "preLaunchTask": "swift: Build Debug tools (scripts)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:poemMedia}/scripts",
+            "name": "Release tools (scripts)",
+            "program": "${workspaceFolder:poemMedia}/scripts/.build/release/tools",
+            "preLaunchTask": "swift: Build Release tools (scripts)"
+        }
+    ]
+}
