@@ -31,6 +31,7 @@
         "git diff": true,
         "git grep": true,
         "git branch": true,
+        "git add": true,
         "/^git branch\\b.*-(d|D|m|M|-delete|-force)\\b/": false,
         "Get-ChildItem": true,
         "Get-Content": true,
