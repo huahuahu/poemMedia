@@ -10,6 +10,8 @@ enum XcodeBuildUtilities {
     process.standardOutput = pipe
     process.standardError = pipe
 
+    // Add debug print statement for process run
+    print("Running xcodebuild with arguments: \(arguments)")
     try process.run()
     process.waitUntilExit()
 
