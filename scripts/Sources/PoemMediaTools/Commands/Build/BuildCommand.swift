@@ -1,56 +1,150 @@
 import ArgumentParser
 import Foundation
 
+// MARK: - BuildCommand
+
 struct BuildCommand: ParsableCommand {
   static let configuration = CommandConfiguration(
-    commandName: "build",
-    abstract: "Build Xcode project"
+    commandName: "xcode-build",
+    abstract: "Build, test, and archive Xcode project",
+    subcommands: [Build.self, CleanBuild.self, Test.self, Archive.self],
+    defaultSubcommand: nil
   )
+}
 
-  // @Option(name: .shortAndLong, help: "Path to Xcode project (.xcodeproj)")
-  // var project: String
+extension BuildCommand {
+  struct Build: ParsableCommand {
+    static let configuration = CommandConfiguration(
+      commandName: "build",
+      abstract: "Build the Xcode project"
+    )
 
-  // @Option(name: .shortAndLong, help: "Scheme to build")
-  // var scheme: String
+    @Option(name: .shortAndLong, help: "Build configuration (Debug/Release)")
+    var configuration: String = ToolConfiguration.configuration
 
-  // @Option(name: .shortAndLong, help: "Configuration to build (Debug/Release)")
-  // var configuration = "Debug"
+    func run() throws {
+      let workspaceRoot = WorkspaceUtilities.findWorkspaceRoot()
+      let projectPath = "\(workspaceRoot)/\(ToolConfiguration.xcodeProjectPath)"
 
-  // @Option(name: .long, help: "Destination for build")
-  // var destination = "generic/platform=iOS Simulator"
+      print("🏗️  Building Xcode project: \(projectPath)")
+      print("📱 Scheme: \(ToolConfiguration.scheme)")
+      print("⚙️  Configuration: \(configuration)")
 
-  @Flag(name: .long, help: "Clean before building") var clean = false
+      let buildArgs = [
+        "xcodebuild",
+        "-project", projectPath,
+        "-scheme", ToolConfiguration.scheme,
+        "-configuration", configuration,
+        "-destination", ToolConfiguration.destination,
+        "build",
+      ]
 
-  func run() throws {
-    // print("🏗️  Building Xcode project: \(project)")
-    // print("📱 Scheme: \(scheme)")
-    // print("⚙️  Configuration: \(configuration)")
+      try XcodeBuildUtilities.runXcodeBuild(arguments: buildArgs)
+      print("✅ Build completed successfully!")
+    }
+  }
 
-    // var buildArgs = [
-    //   "xcodebuild",
-    //   "-project", project,
-    //   "-scheme", scheme,
-    //   "-configuration", configuration,
-    //   "-destination", destination,
-    // ]
+  struct CleanBuild: ParsableCommand {
+    static let configuration = CommandConfiguration(
+      commandName: "clean-build",
+      abstract: "Clean and build the Xcode project"
+    )
 
-    var buildArgs = [
-      "xcodebuild",
-      "-project", "PoemMedia.xcodeproj",
-      "-scheme", "PoemMedia",
-      "-configuration", "Debug",
-      "-destination", "generic/platform=iOS Simulator",
-    ]
+    @Option(name: .shortAndLong, help: "Build configuration (Debug/Release)")
+    var configuration: String = ToolConfiguration.configuration
 
-    // if clean {
-    //   print("🧹 Cleaning project first...")
-    //   let cleanArgs = buildArgs + ["clean"]
-    //   try XcodeBuildUtilities.runXcodeBuild(arguments: cleanArgs)
-    // }
+    func run() throws {
+      let workspaceRoot = WorkspaceUtilities.findWorkspaceRoot()
+      let projectPath = "\(workspaceRoot)/\(ToolConfiguration.xcodeProjectPath)"
 
-    buildArgs.append("build")
-    try XcodeBuildUtilities.runXcodeBuild(arguments: buildArgs)
+      print("🧹 Cleaning and building Xcode project: \(projectPath)")
+      print("📱 Scheme: \(ToolConfiguration.scheme)")
+      print("⚙️  Configuration: \(configuration)")
 
-    print("✅ Build completed successfully!")
+      let baseArgs = [
+        "xcodebuild",
+        "-project", projectPath,
+        "-scheme", ToolConfiguration.scheme,
+        "-configuration", configuration,
+        "-destination", ToolConfiguration.destination,
+      ]
+
+      // Clean first
+      print("🧹 Cleaning project...")
+      let cleanArgs = baseArgs + ["clean"]
+      try XcodeBuildUtilities.runXcodeBuild(arguments: cleanArgs)
+
+      // Then build
+      print("🏗️  Building project...")
+      let buildArgs = baseArgs + ["build"]
+      try XcodeBuildUtilities.runXcodeBuild(arguments: buildArgs)
+
+      print("✅ Clean build completed successfully!")
+    }
+  }
+
+  struct Test: ParsableCommand {
+    static let configuration = CommandConfiguration(
+      commandName: "test",
+      abstract: "Run tests for the Xcode project"
+    )
+
+    @Option(name: .shortAndLong, help: "Build configuration (Debug/Release)")
+    var configuration: String = ToolConfiguration.configuration
+
+    func run() throws {
+      let workspaceRoot = WorkspaceUtilities.findWorkspaceRoot()
+      let projectPath = "\(workspaceRoot)/\(ToolConfiguration.xcodeProjectPath)"
+
+      print("🧪 Running tests for: \(projectPath)")
+      print("📱 Scheme: \(ToolConfiguration.scheme)")
+      print("⚙️  Configuration: \(configuration)")
+
+      let testArgs = [
+        "xcodebuild",
+        "-project", projectPath,
+        "-scheme", ToolConfiguration.scheme,
+        "-configuration", configuration,
+        "-destination", ToolConfiguration.destination,
+        "test",
+      ]
+
+      try XcodeBuildUtilities.runXcodeBuild(arguments: testArgs)
+      print("✅ Tests completed successfully!")
+    }
+  }
+
+  struct Archive: ParsableCommand {
+    static let configuration = CommandConfiguration(
+      commandName: "archive",
+      abstract: "Archive the Xcode project"
+    )
+
+    @Option(name: .shortAndLong, help: "Path where the archive will be saved")
+    var archivePath = "build/PoemMedia.xcarchive"
+
+    func run() throws {
+      let workspaceRoot = WorkspaceUtilities.findWorkspaceRoot()
+      let projectPath = "\(workspaceRoot)/\(ToolConfiguration.xcodeProjectPath)"
+      let fullArchivePath = "\(workspaceRoot)/\(archivePath)"
+
+      print("📦 Archiving Xcode project: \(projectPath)")
+      print("📱 Scheme: \(ToolConfiguration.scheme)")
+      print("⚙️  Configuration: Release")
+      print("💾 Archive path: \(fullArchivePath)")
+
+      let archiveArgs = [
+        "xcodebuild",
+        "-project", projectPath,
+        "-scheme", ToolConfiguration.scheme,
+        "-configuration", "Release",
+        "-archivePath", fullArchivePath,
+        "archive",
+      ]
+
+      try XcodeBuildUtilities.runXcodeBuild(arguments: archiveArgs)
+      print("✅ Archive completed successfully!")
+      print("📦 Archive saved at: \(fullArchivePath)")
+    }
   }
 }

@@ -29,3 +29,8 @@ jobs:
       run: |
         cd scripts
         swift run tools lint-format
+
+    - name: Build project
+      run: |
+        cd scripts
+        swift run tools xcode-build clean-build -c Release
