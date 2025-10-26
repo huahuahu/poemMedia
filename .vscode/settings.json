@@ -91,6 +91,7 @@
         "iex": false,
         "xcodebuild": true,
         "git rev-parse": true,
+        "git checkout": true,
         "/^swift build --show-bin-path$/": {
             "approve": true,
             "matchCommandLine": true
