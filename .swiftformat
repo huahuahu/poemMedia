@@ -1,0 +1,132 @@
+# SwiftFormat 配置文件
+# 适用于 iOS/macOS 项目的代码格式化规则
+
+# 版本要求
+--swift-version 5.9
+
+# 缩进配置
+--indent 2                    # 使用 4 个空格缩进
+--tabwidth 2                  # Tab 宽度为 4
+--smarttabs enabled           # 智能制表符
+
+# 行长度和换行
+--maxwidth 100                # 最大行长度 100 字符
+--wraparguments before-first  # 参数换行：在第一个参数前换行
+--wrapparameters before-first # 参数声明换行：在第一个参数前换行
+--wrapcollections before-first # 集合换行：在第一个元素前换行
+--wrapternary default         # 三元运算符换行：默认行为
+
+# 大括号样式
+--allman false                # 不使用 Allman 风格（大括号不独占一行）
+--wrapreturntype if-multiline # 返回类型换行：仅在多行时
+
+# 空行配置
+--trimwhitespace always       # 总是删除行尾空白
+--insertlines enabled         # 插入空行
+--removelines enabled         # 删除多余空行
+
+# 分号处理
+--semicolons never           # 从不使用分号（除非必需）
+
+# 逗号处理
+--commas always              # 总是添加尾随逗号（多行时）
+
+# 注释格式
+--doccomments preserve       # 保留文档注释格式
+
+# 访问控制
+--redundanttype inferred     # 删除冗余类型注解
+
+# 条件语句格式
+--ifdef no-indent            # #if 块不额外缩进
+--guardelse auto             # guard else 自动格式化
+
+# 操作符间距
+--operatorfunc spaced        # 操作符函数使用空格
+--nospaceoperators ...,..<   # 这些操作符不使用空格
+
+# 类型和扩展
+--typeattributes prev-line   # 类型属性放在前一行
+--varattributes same-line    # 变量属性放在同一行
+
+# 字符串字面量
+--shortoptionals always      # 使用 ? 而不是 Optional<T>
+
+# 启用的规则
+--enable blankLinesAtEndOfScope
+--enable blankLinesAtStartOfScope
+--enable blankLinesBetweenScopes
+--enable braces
+--enable conditionalAssignment
+--enable consecutiveBlankLines
+--enable consecutiveSpaces
+--enable duplicateImports
+--enable elseOnSameLine
+--enable emptyBraces
+--enable enumNamespaces
+--enable extensionAccessControl
+--enable hoistPatternLet
+--enable indent
+--enable leadingDelimiters
+--enable linebreakAtEndOfFile
+--enable markTypes
+--enable modifierOrder
+--enable numberFormatting
+--enable preferKeyPath
+--enable redundantBackticks
+--enable redundantBreak
+--enable redundantExtensionACL
+--enable redundantFileprivate
+--enable redundantGet
+--enable redundantInit
+--enable redundantLet
+--enable redundantLetError
+--enable redundantNilInit
+--enable redundantObjc
+--enable redundantParens
+--enable redundantPattern
+--enable redundantRawValues
+--enable redundantReturn
+--enable redundantSelf
+--enable redundantType
+--enable redundantVoidReturnType
+--enable semicolons
+--enable sortImports
+--enable spaceAroundBraces
+--enable spaceAroundBrackets
+--enable spaceAroundComments
+--enable spaceAroundGenerics
+--enable spaceAroundOperators
+--enable spaceAroundParens
+--enable spaceInsideBraces
+--enable spaceInsideBrackets
+--enable spaceInsideComments
+--enable spaceInsideGenerics
+--enable spaceInsideParens
+--enable strongOutlets
+--enable strongifiedSelf
+--enable todos
+--enable trailingClosures
+--enable trailingCommas
+--enable trailingSpace
+--enable typeSugar
+--enable unusedArguments
+--enable wrap
+--enable wrapArguments
+--enable wrapAttributes
+--enable yodaConditions
+
+# 禁用的规则（可能与项目冲突的规则）
+--disable acronyms              # 不强制首字母缩略词格式
+--disable assertionFailures     # 不修改断言失败
+--disable blockComments         # 保留块注释
+--disable isEmpty               # 不强制使用 isEmpty
+--disable opaqueGenericParameters # 不使用不透明泛型参数
+--disable organizeDeclarations  # 不重新组织声明顺序
+--disable wrapMultilineStatementBraces # 不包装多行语句大括号
+
+# 排除文件和目录
+--exclude Pods,**/*.generated.swift,**/Generated,**/DerivedData,**/build
+
+# 包含的文件路径（可选，默认处理所有 .swift 文件）
+# 如果你想只格式化特定目录，取消下面行的注释：

@@ -11,12 +11,7 @@ This Swift package provides a unified command-line tool for common development t
 
 2. Build the package:
    ```bash
-   swift build -c release
-   ```
-
-3. (Optional) Install the tool globally:
-   ```bash
-   sudo cp .build/release/PoemMediaTools /usr/local/bin/
+   swift build
    ```
 
 ## Usage
@@ -25,114 +20,127 @@ This Swift package provides a unified command-line tool for common development t
 
 ```bash
 cd scripts
-swift build -c release
+swift build
 ```
 
-### Linting Swift files
+The executable will be located at `.build/arm64-apple-macosx/debug/tools` (or similar path depending on your architecture and build configuration).
+
+### Build Command
+
+Build the Xcode project:
 
 ```bash
-# Check code style only
-./.build/release/PoemMediaTools lint --check --path ../ios/
-
-# Check and fix code style
-./.build/release/PoemMediaTools lint --fix --path ../ios/
-
-# Or using swift run during development
-swift run PoemMediaTools lint --check --path ../ios/
-swift run PoemMediaTools lint --fix --path ../ios/
-```
-
-### Building Xcode project
-
-```bash
-./.build/release/PoemMediaTools build --project ../ios/PoemMedia/PoemMedia.xcodeproj --scheme PoemMedia
-
-# Or using swift run during development
-swift run PoemMediaTools build --project ../ios/PoemMedia/PoemMedia.xcodeproj --scheme PoemMedia
-
-# Build with different configurations
-swift run PoemMediaTools build --project ../ios/PoemMedia/PoemMedia.xcodeproj --scheme PoemMedia --configuration Release
+.build/arm64-apple-macosx/debug/tools build
 
 # Clean before building
-swift run PoemMediaTools build --project ../ios/PoemMedia/PoemMedia.xcodeproj --scheme PoemMedia --clean
+.build/arm64-apple-macosx/debug/tools build --clean
 ```
+
+### Lint and Format Command
+
+Run SwiftLint and SwiftFormat on the codebase:
+
+```bash
+# Check mode (default) - verify formatting without making changes
+.build/arm64-apple-macosx/debug/tools lint-format
+
+# Fix mode - automatically apply fixes
+.build/arm64-apple-macosx/debug/tools lint-format --fix
+
+# Run only SwiftFormat
+.build/arm64-apple-macosx/debug/tools lint-format --format-only
+
+# Run only SwiftLint
+.build/arm64-apple-macosx/debug/tools lint-format --lint-only
+
+# Show help
+.build/arm64-apple-macosx/debug/tools lint-format --help
+```
+
+**Note**: 
+- In check mode (without `--fix`), the command will exit with a non-zero code if any formatting issues or lint violations are found, making it suitable for CI pipelines.
+- SwiftFormat uses the `.swiftformat` config file at the workspace root
+- SwiftLint uses the `.swiftlint.yml` config file at the workspace root
+- Binary tools are automatically downloaded as Swift package dependencies
+
+## CI Integration
+
+To use in CI/CD pipelines:
+
+```bash
+cd scripts
+swift build
+.build/arm64-apple-macosx/debug/tools lint-format
+```
+
+The command will fail (exit code 1) if any formatting or linting issues are detected.
 
 ## Project Structure
 
 ```
 scripts/
-├── Package.swift                 # Swift package configuration
+├── Package.swift                             # Swift package configuration
 ├── Sources/
-│   ├── LintTask/
-│   │   └── main.swift           # Lint tool implementation
-│   └── BuildTask/
-│       └── main.swift           # Build tool implementation
-└── README.md                    # This file
+│   └── PoemMediaTools/
+│       ├── entry.swift                       # Main entry point
+│       ├── Commands/
+│       │   ├── Build/
+│       │   │   ├── BuildCommand.swift        # Build command
+│       │   │   └── XcodeBuildUtilities.swift # Xcode build utilities
+│       │   └── LintFormat/
+│       │       ├── LintFormatCommand.swift   # Lint/format command
+│       │       └── LintFormatUtilities.swift # Lint/format utilities
+│       └── Utils/
+│           ├── WorkspaceUtilities.swift      # Workspace helpers
+│           └── ToolConfiguration.swift       # Tool paths configuration
+└── README.md                                 # This file
 ```
 
 ## Development
 
-### Adding New Tasks
+### Adding New Commands
 
-1. Create a new target in `Package.swift`:
+1. Create a new command file implementing `ParsableCommand`:
    ```swift
-   .executableTarget(
-       name: "NewTask",
-       dependencies: [
-           .product(name: "ArgumentParser", package: "swift-argument-parser")
-       ],
-       path: "Sources/NewTask"
-   )
+   import ArgumentParser
+   
+   struct MyCommand: ParsableCommand {
+     static let configuration = CommandConfiguration(
+       commandName: "my-command",
+       abstract: "Description of my command"
+     )
+     
+     func run() throws {
+       // Implementation
+     }
+   }
    ```
 
-2. Add the product:
+2. Register it in `entry.swift`:
    ```swift
-   .executable(name: "newtask", targets: ["NewTask"])
+   @main
+   struct PoemMediaTools: ParsableCommand {
+     static let configuration = CommandConfiguration(
+       abstract: "PoemMedia development tools",
+       subcommands: [BuildCommand.self, LintFormatCommand.self, MyCommand.self],
+       defaultSubcommand: BuildCommand.self
+     )
+   }
    ```
-
-3. Create the source directory and implement your task:
-   ```bash
-   mkdir Sources/NewTask
-   # Implement your task in Sources/NewTask/main.swift
-   ```
-
-### Running Tests
-
-Currently, there are no tests implemented. To add tests, create a `Tests` directory and add test targets to the package.
 
 ## Troubleshooting
 
-### SwiftLint/SwiftFormat Not Found
+### Binary Tools Not Found
 
-If you get errors about SwiftLint or SwiftFormat not being found:
+The SwiftFormat and SwiftLint binaries are downloaded automatically as Swift package dependencies. If you get errors:
 
-1. Install via Homebrew:
+1. Clean and rebuild:
    ```bash
-   brew install swiftlint swiftformat
+   swift package clean
+   swift build
    ```
 
-2. Or install via Mint:
+2. Check that the artifact bundles are downloaded:
    ```bash
-   mint install realm/SwiftLint
-   mint install nicklockwood/SwiftFormat
+   ls .build/artifacts/scripts/
    ```
-
-### Xcode Build Errors
-
-If you encounter build errors:
-
-1. Make sure you're in the correct directory
-2. Verify the project/workspace exists at the specified path
-3. Check that the scheme name is correct
-4. Try cleaning the project first with `--clean`
-
-### Permission Errors
-
-If you get permission errors when installing globally:
-```bash
-# Create a local bin directory
-mkdir -p ~/.local/bin
-cp .build/release/* ~/.local/bin/
-echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc
-source ~/.zshrc
-```

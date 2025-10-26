@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "clean build script",
+            "type": "shell",
+            "command": "swift package clean && swift build",
+            "options": {
+                "cwd": "${workspaceFolder}/scripts"
+            }
+        },
+        {
+            "label": "build script",
+            "type": "shell",
+            "command": " swift build",
+            "options": {
+                "cwd": "${workspaceFolder}/scripts"
+            }
+        }
+    ]
+}
