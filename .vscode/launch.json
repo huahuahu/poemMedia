@@ -12,5 +12,25 @@
             "cwd": "${workspaceFolder:poemMedia}/scripts",
             "preLaunchTask": "build script"
         },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:poemMedia}/scripts",
+            "name": "Debug tools (scripts)",
+            "target": "tools",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug tools (scripts)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:poemMedia}/scripts",
+            "name": "Release tools (scripts)",
+            "target": "tools",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release tools (scripts)"
+        }
     ]
 }
