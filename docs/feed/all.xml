@@ -5,7 +5,7 @@
     <link>https://huahuahu.github.io/poemMedia/</link>
     <language>zh-CN</language>
     <description>叶嘉莹先生讲解中国古典诗词的完整系列</description>
-    <lastBuildDate>Sun, 15 Mar 2026 12:35:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 12:45:39 +0000</lastBuildDate>
     <ttl>3600</ttl>
 
     <itunes:author>叶嘉莹</itunes:author>
@@ -25,93 +25,15 @@
       <link>https://huahuahu.github.io/poemMedia/</link>
     </image>
     <item>
-      <title>9叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 行止千万端</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 36 集</description>
-      <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-036</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-036.mp3" length="39337514" type="audio/mpeg"/>
-      <itunes:author>叶嘉莹</itunes:author>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>36</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>8叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 栖栖失群鸟</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 35 集</description>
-      <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-035</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-035.mp3" length="49164152" type="audio/mpeg"/>
-      <itunes:author>叶嘉莹</itunes:author>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>35</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>7叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 道丧向千载</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 34 集</description>
-      <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-034</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-034.mp3" length="60297331" type="audio/mpeg"/>
-      <itunes:author>叶嘉莹</itunes:author>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>34</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>6叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 积善云有报</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 33 集</description>
-      <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-033</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-033.mp3" length="54512358" type="audio/mpeg"/>
-      <itunes:author>叶嘉莹</itunes:author>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>33</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>5叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 哀荣无定在</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 32 集</description>
-      <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-032</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-032.mp3" length="60048645" type="audio/mpeg"/>
-      <itunes:author>叶嘉莹</itunes:author>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>32</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>4叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 序+结庐在人境</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 31 集</description>
-      <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-031</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-031.mp3" length="91934752" type="audio/mpeg"/>
-      <itunes:author>叶嘉莹</itunes:author>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>31</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
       <title>43叶嘉莹说陶渊明饮酒及拟古诗_下、五、陶渊明的拟古诗 种桑长江边</title>
       <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 30 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">taoyuanming-030</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-030.mp3" length="4171264" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>30</itunes:episode>
+      <itunes:episode>36</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -120,11 +42,11 @@
       <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 29 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">taoyuanming-029</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-029.mp3" length="30733406" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>29</itunes:episode>
+      <itunes:episode>35</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -133,11 +55,11 @@
       <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 28 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">taoyuanming-028</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-028.mp3" length="9377364" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>28</itunes:episode>
+      <itunes:episode>34</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -146,24 +68,11 @@
       <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 27 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">taoyuanming-027</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-027.mp3" length="53254301" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>27</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>3叶嘉莹说陶渊明饮酒及拟古诗_上、三、陶渊明的经历</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 26 集</description>
-      <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-026</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-026.mp3" length="44703274" type="audio/mpeg"/>
-      <itunes:author>叶嘉莹</itunes:author>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>26</itunes:episode>
+      <itunes:episode>33</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -172,11 +81,11 @@
       <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 25 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">taoyuanming-025</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-025.mp3" length="7957556" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>25</itunes:episode>
+      <itunes:episode>32</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -185,11 +94,11 @@
       <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 24 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">taoyuanming-024</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-024.mp3" length="15597014" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>24</itunes:episode>
+      <itunes:episode>31</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -198,11 +107,11 @@
       <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 23 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">taoyuanming-023</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-023.mp3" length="110523112" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>23</itunes:episode>
+      <itunes:episode>30</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -211,11 +120,11 @@
       <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 22 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">taoyuanming-022</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-022.mp3" length="48002688" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>22</itunes:episode>
+      <itunes:episode>29</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -224,11 +133,11 @@
       <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 21 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">taoyuanming-021</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-021.mp3" length="32867506" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>21</itunes:episode>
+      <itunes:episode>28</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -237,8 +146,99 @@
       <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 20 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">taoyuanming-020</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-020.mp3" length="128359476" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>33叶嘉莹说陶渊明饮酒及拟古诗_下、三、陶渊明的矛盾与悲慨_clip</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 19 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">taoyuanming-019</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-019.mp3" length="48320293" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>32叶嘉莹说陶渊明饮酒及拟古诗_下、二、陶渊明的归隐与抉择</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 18 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">taoyuanming-018</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-018.mp3" length="256802557" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>31叶嘉莹说陶渊明饮酒及拟古诗_下、一、陶渊明的出仕与“任真”</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 17 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">taoyuanming-017</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-017.mp3" length="106516512" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>23叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 羲农去我久</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 15 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">taoyuanming-015</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-015.mp3" length="80665736" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>22叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 畴昔苦长饥</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 14 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">taoyuanming-014</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-014.mp3" length="82402819" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>21叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 子云性嗜酒</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 13 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">taoyuanming-013</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-013.mp3" length="135202557" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>20叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 幽兰生前庭</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 12 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">taoyuanming-012</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-012.mp3" length="171602623" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>20</itunes:episode>
@@ -250,7 +250,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 19 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-019</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-019.mp3" length="83304921" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -259,12 +259,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>33叶嘉莹说陶渊明饮酒及拟古诗_下、三、陶渊明的矛盾与悲慨_clip</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 19 集</description>
+      <title>19叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 少年罕人事</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 10 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-019</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-019.mp3" length="48320293" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-010</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-010.mp3" length="103202557" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>19</itunes:episode>
@@ -276,7 +276,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 18 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-018</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-018.mp3" length="50202511" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -285,12 +285,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>32叶嘉莹说陶渊明饮酒及拟古诗_下、二、陶渊明的归隐与抉择</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 18 集</description>
+      <title>18叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 贫居乏人工</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 9 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-018</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-018.mp3" length="256802557" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-009</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-009.mp3" length="41046967" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>18</itunes:episode>
@@ -302,7 +302,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 17 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-017</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-017.mp3" length="24351867" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -311,12 +311,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>31叶嘉莹说陶渊明饮酒及拟古诗_下、一、陶渊明的出仕与“任真”</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 17 集</description>
+      <title>17叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 故人赏我趣</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 8 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-017</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-017.mp3" length="106516512" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-008</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-008.mp3" length="51483408" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>17</itunes:episode>
@@ -328,7 +328,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 16 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-016</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-016.mp3" length="102063977" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -337,12 +337,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>2叶嘉莹说陶渊明饮酒及拟古诗_上、二、陶渊明的思想</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 16 集</description>
+      <title>16叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 有客长同止</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 7 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-016</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-016.mp3" length="64615685" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-007</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-007.mp3" length="50652087" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>16</itunes:episode>
@@ -354,7 +354,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 15 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-015</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-015.mp3" length="40780455" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -363,12 +363,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>23叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 羲农去我久</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 15 集</description>
+      <title>15 叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗长公曾一仕</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 6 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-015</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-015.mp3" length="80665736" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-006</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-006.mp3" length="62222451" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>15</itunes:episode>
@@ -380,7 +380,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 14 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-014</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-014.mp3" length="81168102" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -389,12 +389,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>22叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 畴昔苦长饥</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 14 集</description>
+      <title>14叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 颜生称为仁</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 5 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-014</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-014.mp3" length="82402819" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-005</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-005.mp3" length="134283047" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>14</itunes:episode>
@@ -406,7 +406,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 13 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-013</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-013.mp3" length="56510477" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -415,12 +415,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>21叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 子云性嗜酒</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 13 集</description>
+      <title>13叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 在昔曾远游</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 4 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-013</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-013.mp3" length="135202557" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-004</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-004.mp3" length="124043047" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>13</itunes:episode>
@@ -432,7 +432,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 12 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-012</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-012.mp3" length="23894469" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -441,12 +441,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>20叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 幽兰生前庭</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 12 集</description>
+      <title>12叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 清晨闻叩门</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 3 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-012</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-012.mp3" length="171602623" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-003</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-003.mp3" length="168123112" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>12</itunes:episode>
@@ -458,7 +458,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 11 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-011</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-011.mp3" length="131137404" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -467,12 +467,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>1叶嘉莹说陶渊明饮酒及拟古诗_上、一、陶渊明的时代</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 11 集</description>
+      <title>11叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 青松在东园</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 2 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-011</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-011.mp3" length="60639640" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-002</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-002.mp3" length="47237778" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>11</itunes:episode>
@@ -484,7 +484,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 10 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-010</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-010.mp3" length="40373555" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -493,12 +493,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>19叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 少年罕人事</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 10 集</description>
+      <title>10叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 秋菊有佳色</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 1 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-010</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-010.mp3" length="103202557" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-001</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-001.mp3" length="151203080" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>10</itunes:episode>
@@ -510,7 +510,7 @@
       <description>叶嘉莹说初盛唐诗 - 第 9 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">chu-sheng-tang-009</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/chu-sheng-tang-009.mp3" length="369327992" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -523,7 +523,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 9 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-009</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-009.mp3" length="53229096" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -532,12 +532,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>18叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 贫居乏人工</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 9 集</description>
+      <title>9叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 行止千万端</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 36 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-009</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-009.mp3" length="41046967" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-036</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-036.mp3" length="39337514" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>9</itunes:episode>
@@ -549,7 +549,7 @@
       <description>叶嘉莹说初盛唐诗 - 第 8 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">chu-sheng-tang-008</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/chu-sheng-tang-008.mp3" length="268477785" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -562,7 +562,7 @@
       <description>叶叶嘉莹说中晚唐诗 - 第 8 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">zhong-wan-tang-008</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/zhong-wan-tang-008.mp3" length="103239506" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -575,7 +575,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 8 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-008</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-008.mp3" length="38314797" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -584,12 +584,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>17叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 故人赏我趣</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 8 集</description>
+      <title>8叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 栖栖失群鸟</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 35 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-008</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-008.mp3" length="51483408" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-035</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-035.mp3" length="49164152" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>8</itunes:episode>
@@ -601,7 +601,7 @@
       <description>叶嘉莹说初盛唐诗 - 第 7 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">chu-sheng-tang-007</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/chu-sheng-tang-007.mp3" length="158703313" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -614,7 +614,7 @@
       <description>叶叶嘉莹说中晚唐诗 - 第 7 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">zhong-wan-tang-007</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/zhong-wan-tang-007.mp3" length="75426386" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -627,7 +627,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 7 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-007</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-007.mp3" length="58701583" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -636,12 +636,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>16叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 有客长同止</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 7 集</description>
+      <title>7叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 道丧向千载</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 34 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-007</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-007.mp3" length="50652087" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-034</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-034.mp3" length="60297331" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>7</itunes:episode>
@@ -653,7 +653,7 @@
       <description>叶嘉莹说杜甫 - 第 6 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">dufu-006</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/dufu-006.mp3" length="134" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -666,7 +666,7 @@
       <description>叶嘉莹说诗讲稿 - 第 6 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">jianggao-006</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/jianggao-006.mp3" length="105000574" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -679,7 +679,7 @@
       <description>叶嘉莹说初盛唐诗 - 第 6 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">chu-sheng-tang-006</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/chu-sheng-tang-006.mp3" length="53854490" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -692,7 +692,7 @@
       <description>叶叶嘉莹说中晚唐诗 - 第 6 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">zhong-wan-tang-006</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/zhong-wan-tang-006.mp3" length="109839818" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -705,7 +705,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 6 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-006</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-006.mp3" length="42262715" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -714,12 +714,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>15 叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗长公曾一仕</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 6 集</description>
+      <title>6叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 积善云有报</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 33 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-006</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-006.mp3" length="62222451" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-033</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-033.mp3" length="54512358" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>6</itunes:episode>
@@ -731,7 +731,7 @@
       <description>叶嘉莹说杜甫 - 第 5 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">dufu-005</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/dufu-005.mp3" length="134" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -744,7 +744,7 @@
       <description>叶嘉莹说诗讲稿 - 第 5 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">jianggao-005</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/jianggao-005.mp3" length="230444753" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -757,7 +757,7 @@
       <description>叶嘉莹说初盛唐诗 - 第 5 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">chu-sheng-tang-005</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/chu-sheng-tang-005.mp3" length="465856502" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -770,7 +770,7 @@
       <description>叶叶嘉莹说中晚唐诗 - 第 5 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">zhong-wan-tang-005</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/zhong-wan-tang-005.mp3" length="27058706" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -783,7 +783,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 5 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-005</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-005.mp3" length="52224723" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -792,12 +792,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>14叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 颜生称为仁</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 5 集</description>
+      <title>5叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 哀荣无定在</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 32 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-005</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-005.mp3" length="134283047" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-032</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-032.mp3" length="60048645" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>5</itunes:episode>
@@ -809,7 +809,7 @@
       <description>叶嘉莹说杜甫 - 第 4 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">dufu-004</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/dufu-004.mp3" length="133" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -822,7 +822,7 @@
       <description>叶嘉莹说诗讲稿 - 第 4 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">jianggao-004</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/jianggao-004.mp3" length="129587858" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -835,7 +835,7 @@
       <description>叶嘉莹说初盛唐诗 - 第 4 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">chu-sheng-tang-004</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/chu-sheng-tang-004.mp3" length="60236727" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -848,7 +848,7 @@
       <description>叶叶嘉莹说中晚唐诗 - 第 4 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">zhong-wan-tang-004</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/zhong-wan-tang-004.mp3" length="188545106" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -861,7 +861,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 4 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-004</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-004.mp3" length="50865941" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -870,12 +870,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>13叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 在昔曾远游</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 4 集</description>
+      <title>4叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 序+结庐在人境</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 31 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-004</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-004.mp3" length="124043047" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-031</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-031.mp3" length="91934752" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>4</itunes:episode>
@@ -887,7 +887,7 @@
       <description>叶嘉莹说杜甫 - 第 3 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">dufu-003</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/dufu-003.mp3" length="134" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -900,7 +900,7 @@
       <description>叶嘉莹说诗讲稿 - 第 3 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">jianggao-003</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/jianggao-003.mp3" length="98031940" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -913,7 +913,7 @@
       <description>叶嘉莹说初盛唐诗 - 第 3 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">chu-sheng-tang-003</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/chu-sheng-tang-003.mp3" length="63412799" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -926,7 +926,7 @@
       <description>叶叶嘉莹说中晚唐诗 - 第 3 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">zhong-wan-tang-003</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/zhong-wan-tang-003.mp3" length="221102546" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -939,7 +939,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 3 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-003</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-003.mp3" length="79698767" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -948,12 +948,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>12叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 清晨闻叩门</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 3 集</description>
+      <title>3叶嘉莹说陶渊明饮酒及拟古诗_上、三、陶渊明的经历</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 26 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-003</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-003.mp3" length="168123112" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-026</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-026.mp3" length="44703274" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>3</itunes:episode>
@@ -965,7 +965,7 @@
       <description>叶嘉莹说杜甫 - 第 2 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">dufu-002</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/dufu-002.mp3" length="133" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -978,7 +978,7 @@
       <description>叶嘉莹说诗讲稿 - 第 2 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">jianggao-002</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/jianggao-002.mp3" length="117159006" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -991,7 +991,7 @@
       <description>叶嘉莹说初盛唐诗 - 第 2 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">chu-sheng-tang-002</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/chu-sheng-tang-002.mp3" length="57145501" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -1004,7 +1004,7 @@
       <description>叶叶嘉莹说中晚唐诗 - 第 2 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">zhong-wan-tang-002</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/zhong-wan-tang-002.mp3" length="942611998" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -1017,7 +1017,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 2 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-002</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-002.mp3" length="31730109" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -1026,12 +1026,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>11叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 青松在东园</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 2 集</description>
+      <title>2叶嘉莹说陶渊明饮酒及拟古诗_上、二、陶渊明的思想</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 16 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-002</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-002.mp3" length="47237778" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-016</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-016.mp3" length="64615685" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>2</itunes:episode>
@@ -1043,7 +1043,7 @@
       <description>叶嘉莹说杜甫 - 第 1 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">dufu-001</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/dufu-001.mp3" length="134" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -1056,7 +1056,7 @@
       <description>叶嘉莹说诗讲稿 - 第 1 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">jianggao-001</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/jianggao-001.mp3" length="99073494" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -1069,7 +1069,7 @@
       <description>叶嘉莹说初盛唐诗 - 第 1 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">chu-sheng-tang-001</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/chu-sheng-tang-001.mp3" length="90922036" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -1082,7 +1082,7 @@
       <description>叶叶嘉莹说中晚唐诗 - 第 1 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">zhong-wan-tang-001</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/zhong-wan-tang-001.mp3" length="215329106" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -1095,7 +1095,7 @@
       <description>叶嘉莹说阮籍咏怀诗 - 第 1 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
       <guid isPermaLink="false">ruanji-001</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
       <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/ruanji-001.mp3" length="125845368" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
@@ -1104,12 +1104,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>10叶嘉莹说陶渊明饮酒及拟古诗_上、四、陶渊明的饮酒诗 秋菊有佳色</title>
-      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 1 集</description>
+      <title>1叶嘉莹说陶渊明饮酒及拟古诗_上、一、陶渊明的时代</title>
+      <description>叶嘉莹说陶渊明饮酒及拟古诗 - 第 11 集</description>
       <link>https://huahuahu.github.io/poemMedia/</link>
-      <guid isPermaLink="false">taoyuanming-001</guid>
-      <pubDate>Sun, 15 Mar 2026 12:35:19 +0000</pubDate>
-      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-001.mp3" length="151203080" type="audio/mpeg"/>
+      <guid isPermaLink="false">taoyuanming-011</guid>
+      <pubDate>Sun, 15 Mar 2026 12:45:39 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/taoyuanming-011.mp3" length="60639640" type="audio/mpeg"/>
       <itunes:author>叶嘉莹</itunes:author>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>1</itunes:episode>
