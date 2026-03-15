@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>叶嘉莹说中晚唐诗</title>
+    <link>https://huahuahu.github.io/poemMedia/</link>
+    <language>zh-CN</language>
+    <description>叶嘉莹先生讲解中晚唐时期的诗人与诗歌，包括韦应物、柳宗元、刘禹锡、韩愈、白居易、李贺、李商隐、杜牧等杰出诗人。</description>
+    <lastBuildDate>Sun, 15 Mar 2026 12:19:27 +0000</lastBuildDate>
+    <ttl>3600</ttl>
+
+    <itunes:author>叶嘉莹</itunes:author>
+    <itunes:summary>叶嘉莹先生讲解中晚唐时期的诗人与诗歌，包括韦应物、柳宗元、刘禹锡、韩愈、白居易、李贺、李商隐、杜牧等杰出诗人。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Arts">
+      <itunes:category text="Books"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>叶嘉莹</itunes:name>
+      <itunes:email>contact@example.com</itunes:email>
+    </itunes:owner>
+
+    <image>
+      <url>https://huahuahu.github.io/poemMedia/assets/podcast-cover.jpg</url>
+      <title>叶嘉莹说中晚唐诗</title>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+    </image>
+    <item>
+      <title>中晚唐诗人之四：韩愈</title>
+      <description>叶叶嘉莹说中晚唐诗 - 第 8 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">zhong-wan-tang-008</guid>
+      <pubDate>Sun, 15 Mar 2026 12:19:27 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/%E4%B8%AD%E6%99%9A%E5%94%90%E8%AF%97%E4%BA%BA%E4%B9%8B%E5%9B%9B%EF%BC%9A%E9%9F%A9%E6%84%88.mp3" length="103239506" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>中晚唐诗人之六：李贺</title>
+      <description>叶叶嘉莹说中晚唐诗 - 第 7 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">zhong-wan-tang-007</guid>
+      <pubDate>Sun, 15 Mar 2026 12:19:27 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/%E4%B8%AD%E6%99%9A%E5%94%90%E8%AF%97%E4%BA%BA%E4%B9%8B%E5%85%AD%EF%BC%9A%E6%9D%8E%E8%B4%BA.mp3" length="75426386" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>中晚唐诗人之八：杜牧</title>
+      <description>叶叶嘉莹说中晚唐诗 - 第 6 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">zhong-wan-tang-006</guid>
+      <pubDate>Sun, 15 Mar 2026 12:19:27 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/%E4%B8%AD%E6%99%9A%E5%94%90%E8%AF%97%E4%BA%BA%E4%B9%8B%E5%85%AB%EF%BC%9A%E6%9D%9C%E7%89%A7.mp3" length="109839818" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>中晚唐诗人之五：白居易1</title>
+      <description>叶叶嘉莹说中晚唐诗 - 第 5 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">zhong-wan-tang-005</guid>
+      <pubDate>Sun, 15 Mar 2026 12:19:27 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/%E4%B8%AD%E6%99%9A%E5%94%90%E8%AF%97%E4%BA%BA%E4%B9%8B%E4%BA%94%EF%BC%9A%E7%99%BD%E5%B1%85%E6%98%931.mp3" length="27058706" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>中晚唐诗人之二：柳宗元</title>
+      <description>叶叶嘉莹说中晚唐诗 - 第 4 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">zhong-wan-tang-004</guid>
+      <pubDate>Sun, 15 Mar 2026 12:19:27 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/%E4%B8%AD%E6%99%9A%E5%94%90%E8%AF%97%E4%BA%BA%E4%B9%8B%E4%BA%8C%EF%BC%9A%E6%9F%B3%E5%AE%97%E5%85%83.mp3" length="188545106" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>中晚唐诗人之三：刘禹锡</title>
+      <description>叶叶嘉莹说中晚唐诗 - 第 3 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">zhong-wan-tang-003</guid>
+      <pubDate>Sun, 15 Mar 2026 12:19:27 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/%E4%B8%AD%E6%99%9A%E5%94%90%E8%AF%97%E4%BA%BA%E4%B9%8B%E4%B8%89%EF%BC%9A%E5%88%98%E7%A6%B9%E9%94%A1.mp3" length="221102546" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>中晚唐诗人之七：李商隐</title>
+      <description>叶叶嘉莹说中晚唐诗 - 第 2 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">zhong-wan-tang-002</guid>
+      <pubDate>Sun, 15 Mar 2026 12:19:27 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/%E4%B8%AD%E6%99%9A%E5%94%90%E8%AF%97%E4%BA%BA%E4%B9%8B%E4%B8%83%EF%BC%9A%E6%9D%8E%E5%95%86%E9%9A%90.mp3" length="942611998" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>中晚唐诗人之一：韦应物</title>
+      <description>叶叶嘉莹说中晚唐诗 - 第 1 集</description>
+      <link>https://huahuahu.github.io/poemMedia/</link>
+      <guid isPermaLink="false">zhong-wan-tang-001</guid>
+      <pubDate>Sun, 15 Mar 2026 12:19:27 +0000</pubDate>
+      <enclosure url="https://github.com/huahuahu/poemMedia/releases/download/media-v1/%E4%B8%AD%E6%99%9A%E5%94%90%E8%AF%97%E4%BA%BA%E4%B9%8B%E4%B8%80%EF%BC%9A%E9%9F%A6%E5%BA%94%E7%89%A9.mp3" length="215329106" type="audio/mpeg"/>
+      <itunes:author>叶嘉莹</itunes:author>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
