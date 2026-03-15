@@ -11,20 +11,15 @@ struct RSSGeneratorCommand: ParsableCommand {
     """
   )
 
-  @Option(help: "Output directory for RSS feeds")
-  var output: String = "docs/feed"
+  @Option(help: "Output directory for RSS feeds") var output = "docs/feed"
 
-  @Option(help: "Metadata directory")
-  var metadata: String = "metadata"
+  @Option(help: "Metadata directory") var metadata = "metadata"
 
-  @Option(help: "GitHub release version tag")
-  var releaseVersion: String = "v1.0.0"
+  @Option(help: "GitHub release version tag") var releaseVersion = "v1.0.0"
 
-  @Flag(help: "Validate without writing files")
-  var validate: Bool = false
+  @Flag(help: "Validate without writing files") var validate = false
 
-  @Flag(help: "Verbose output")
-  var verbose: Bool = false
+  @Flag(help: "Verbose output") var verbose = false
 
   mutating func run() throws {
     if verbose {
@@ -58,7 +53,7 @@ struct RSSGeneratorCommand: ParsableCommand {
     var generatedFiles = 0
 
     // Generate "all episodes" feed
-    let allEpisodes = allSeries.flatMap { $0.episodes }
+    let allEpisodes = allSeries.flatMap(\.episodes)
     let allFeed = builder.buildFeed(
       title: "叶嘉莹说诗 - 全部系列",
       description: "叶嘉莹先生讲解中国古典诗词的完整系列",

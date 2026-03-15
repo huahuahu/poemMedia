@@ -1,0 +1,70 @@
+{
+  "episodes": [
+    {
+      "id": "dufu-001",
+      "title": "1-早期生活及诗作",
+      "description": "叶嘉莹说杜甫 - 第 1 集",
+      "audioFileName": "1-早期生活及诗作.mp3",
+      "duration": 0,
+      "fileSize": 134,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 1,
+      "season": 1
+    },
+    {
+      "id": "dufu-002",
+      "title": "2-在长安求仕时期生活及诗作",
+      "description": "叶嘉莹说杜甫 - 第 2 集",
+      "audioFileName": "2-在长安求仕时期生活及诗作.mp3",
+      "duration": 0,
+      "fileSize": 133,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 2,
+      "season": 1
+    },
+    {
+      "id": "dufu-003",
+      "title": "3-安史之乱将起时的一篇名作",
+      "description": "叶嘉莹说杜甫 - 第 3 集",
+      "audioFileName": "3-安史之乱将起时的一篇名作.mp3",
+      "duration": 0,
+      "fileSize": 134,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 3,
+      "season": 1
+    },
+    {
+      "id": "dufu-004",
+      "title": "4-身陷长安时的作品",
+      "description": "叶嘉莹说杜甫 - 第 4 集",
+      "audioFileName": "4-身陷长安时的作品.mp3",
+      "duration": 0,
+      "fileSize": 133,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 4,
+      "season": 1
+    },
+    {
+      "id": "dufu-005",
+      "title": "6-长安收复后官拾遗时的作品",
+      "description": "叶嘉莹说杜甫 - 第 5 集",
+      "audioFileName": "6-长安收复后官拾遗时的作品.mp3",
+      "duration": 0,
+      "fileSize": 134,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 5,
+      "season": 1
+    },
+    {
+      "id": "dufu-006",
+      "title": "9-杜甫的一组名诗",
+      "description": "叶嘉莹说杜甫 - 第 6 集",
+      "audioFileName": "9-杜甫的一组名诗.mp3",
+      "duration": 0,
+      "fileSize": 134,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 6,
+      "season": 1
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 import Foundation
 
+// MARK: - PodcastConfig
+
 struct PodcastConfig: Codable {
   let title: String
   let description: String
@@ -12,6 +14,8 @@ struct PodcastConfig: Codable {
   let copyright: String
   let websiteUrl: String
 }
+
+// MARK: - SeriesMetadata
 
 struct SeriesMetadata: Codable {
   let id: String
@@ -36,17 +40,21 @@ struct SeriesMetadata: Codable {
   }
 }
 
+// MARK: - Episode
+
 struct Episode: Codable {
   let id: String
   let title: String
   let description: String
   let audioFileName: String
-  let duration: Int  // seconds
+  let duration: Int // seconds
   let fileSize: Int64
-  let pubDate: String  // ISO 8601 format
+  let pubDate: String // ISO 8601 format
   let episodeNumber: Int
   let season: Int
 }
+
+// MARK: - MetadataLoader
 
 class MetadataLoader {
   let metadataPath: String

@@ -1,0 +1,103 @@
+{
+  "episodes": [
+    {
+      "id": "chu-sheng-tang-001",
+      "title": "1-叶嘉莹说初盛唐诗-王绩",
+      "description": "叶嘉莹说初盛唐诗 - 第 1 集",
+      "audioFileName": "1-叶嘉莹说初盛唐诗-王绩.mp3",
+      "duration": 0,
+      "fileSize": 90922036,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 1,
+      "season": 1
+    },
+    {
+      "id": "chu-sheng-tang-002",
+      "title": "2-叶嘉莹说初盛唐诗_杜审言",
+      "description": "叶嘉莹说初盛唐诗 - 第 2 集",
+      "audioFileName": "2-叶嘉莹说初盛唐诗_杜审言.mp3",
+      "duration": 0,
+      "fileSize": 57145501,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 2,
+      "season": 1
+    },
+    {
+      "id": "chu-sheng-tang-003",
+      "title": "3-叶嘉莹说初盛唐诗-王勃",
+      "description": "叶嘉莹说初盛唐诗 - 第 3 集",
+      "audioFileName": "3-叶嘉莹说初盛唐诗-王勃.mp3",
+      "duration": 0,
+      "fileSize": 63412799,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 3,
+      "season": 1
+    },
+    {
+      "id": "chu-sheng-tang-004",
+      "title": "4-叶嘉莹说初盛唐诗-骆宾王",
+      "description": "叶嘉莹说初盛唐诗 - 第 4 集",
+      "audioFileName": "4-叶嘉莹说初盛唐诗-骆宾王.mp3",
+      "duration": 0,
+      "fileSize": 60236727,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 4,
+      "season": 1
+    },
+    {
+      "id": "chu-sheng-tang-005",
+      "title": "5-叶嘉莹说初盛唐诗_陈子昂",
+      "description": "叶嘉莹说初盛唐诗 - 第 5 集",
+      "audioFileName": "5-叶嘉莹说初盛唐诗_陈子昂.mp3",
+      "duration": 0,
+      "fileSize": 465856502,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 5,
+      "season": 1
+    },
+    {
+      "id": "chu-sheng-tang-006",
+      "title": "6-叶嘉莹说初盛唐诗_张九龄",
+      "description": "叶嘉莹说初盛唐诗 - 第 6 集",
+      "audioFileName": "6-叶嘉莹说初盛唐诗_张九龄.mp3",
+      "duration": 0,
+      "fileSize": 53854490,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 6,
+      "season": 1
+    },
+    {
+      "id": "chu-sheng-tang-007",
+      "title": "7-叶嘉莹说初盛唐诗_孟浩然",
+      "description": "叶嘉莹说初盛唐诗 - 第 7 集",
+      "audioFileName": "7-叶嘉莹说初盛唐诗_孟浩然.mp3",
+      "duration": 0,
+      "fileSize": 158703313,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 7,
+      "season": 1
+    },
+    {
+      "id": "chu-sheng-tang-008",
+      "title": "8-叶嘉莹说初盛唐诗_王维",
+      "description": "叶嘉莹说初盛唐诗 - 第 8 集",
+      "audioFileName": "8-叶嘉莹说初盛唐诗_王维.mp3",
+      "duration": 0,
+      "fileSize": 268477785,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 8,
+      "season": 1
+    },
+    {
+      "id": "chu-sheng-tang-009",
+      "title": "9-叶嘉莹说初盛唐诗_李白",
+      "description": "叶嘉莹说初盛唐诗 - 第 9 集",
+      "audioFileName": "9-叶嘉莹说初盛唐诗_李白.mp3",
+      "duration": 0,
+      "fileSize": 369327992,
+      "pubDate": "2024-01-01T00:00:00Z",
+      "episodeNumber": 9,
+      "season": 1
+    }
+  ]
+}

@@ -14,8 +14,9 @@ class XMLBuilder {
     title: String,
     description: String? = nil,
     episodes: [Episode],
-    feedId: String? = nil
-  ) -> String {
+    feedId _: String? = nil
+  )
+    -> String {
     let desc = description ?? podcast.description
 
     var xml = """
@@ -94,7 +95,7 @@ class XMLBuilder {
   // MARK: - Helper Methods
 
   private func xmlEscape(_ str: String) -> String {
-    return str
+    str
       .replacingOccurrences(of: "&", with: "&amp;")
       .replacingOccurrences(of: "<", with: "&lt;")
       .replacingOccurrences(of: ">", with: "&gt;")
