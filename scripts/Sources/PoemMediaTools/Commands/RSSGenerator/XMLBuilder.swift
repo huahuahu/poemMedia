@@ -17,7 +17,6 @@ class XMLBuilder {
     feedId: String? = nil
   ) -> String {
     let desc = description ?? podcast.description
-    let feedUrl = feedId.map { _ in "\(repoUrl)/releases/download/\(releaseVersion)" } ?? ""
 
     var xml = """
     <?xml version="1.0" encoding="UTF-8"?>
