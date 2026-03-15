@@ -1,0 +1,46 @@
+{
+  "series": [
+    {
+      "id": "dufu",
+      "title": "叶嘉莹说杜甫",
+      "description": "叶嘉莹先生讲解杜甫的生平、诗歌创作及其艺术特色，深入探讨诗圣的伟大成就。",
+      "coverImage": "covers/dufu.jpg",
+      "directory": "叶嘉莹说杜甫"
+    },
+    {
+      "id": "jianggao",
+      "title": "叶嘉莹说诗讲稿",
+      "description": "叶嘉莹先生关于诗歌理论与鉴赏的讲座集锦，涵盖古诗、现代诗等多个主题。",
+      "coverImage": "covers/jianggao.jpg",
+      "directory": "叶嘉莹说诗讲稿"
+    },
+    {
+      "id": "chu-sheng-tang",
+      "title": "叶嘉莹说初盛唐诗",
+      "description": "叶嘉莹先生讲解初盛唐时期的诗人与诗歌，包括王绩、杜审言、王勃、骆宾王、陈子昂、张九龄、孟浩然、王维、李白等文化巨人。",
+      "coverImage": "covers/chu-sheng-tang.jpg",
+      "directory": "叶嘉莹说初盛唐诗"
+    },
+    {
+      "id": "zhong-wan-tang",
+      "title": "叶嘉莹说中晚唐诗",
+      "description": "叶嘉莹先生讲解中晚唐时期的诗人与诗歌，包括韦应物、柳宗元、刘禹锡、韩愈、白居易、李贺、李商隐、杜牧等杰出诗人。",
+      "coverImage": "covers/zhong-wan-tang.jpg",
+      "directory": "叶叶嘉莹说中晚唐诗"
+    },
+    {
+      "id": "ruanji",
+      "title": "叶嘉莹说阮籍咏怀诗",
+      "description": "叶嘉莹先生详尽讲解阮籍的《咏怀诗》，探讨诗人的思想品格与诗歌艺术，共计四十多首诗作的深度解读。",
+      "coverImage": "covers/ruanji.jpg",
+      "directory": "叶嘉莹说阮籍咏怀诗"
+    },
+    {
+      "id": "taoyuanming",
+      "title": "叶嘉莹说陶渊明饮酒及拟古诗",
+      "description": "叶嘉莹先生讲解陶渊明的《饮酒诗》和《拟古诗》，揭示这位文化巨人的思想与艺术成就，共涵盖近五十首诗作的完整解读。",
+      "coverImage": "covers/taoyuanming.jpg",
+      "directory": "叶嘉莹说陶渊明饮酒及拟古诗"
+    }
+  ]
+}
